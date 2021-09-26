@@ -13,6 +13,7 @@ namespace EasyModbus
         public void Write()
         { 
         
+
         }
             
 
