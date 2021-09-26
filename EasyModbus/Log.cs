@@ -15,7 +15,11 @@ namespace EasyModbus
         
 
         }
-            
 
+        public void Read()
+        {
+
+
+        }
     }
 }
